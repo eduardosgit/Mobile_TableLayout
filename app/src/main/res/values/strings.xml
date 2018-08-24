@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="text1">atencao</string>
+    <string name="text2">forca</string>
+    <string name="text3">homem</string>
+    <string name="text4">biforcacao</string>
+</resources>
